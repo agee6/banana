@@ -1,0 +1,64 @@
+ .America {
+    font-size: 55px;
+    text-align: center;
+}
+.headline {
+    color: blue;
+    text-align: center;
+    background: rgb(42, 165, 151);
+    padding: 50px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.peanutbutter {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background: aqua;
+    padding: 50px;
+    font-size: 30px;
+}
+.pad-section {
+    display: flex;
+    align-content: center;
+}
+.pad {
+    font-size: 15px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+}
+.try-sections {
+    display: flex;
+    align-content: center;
+}
+.try {
+    margin: auto;
+}
+
+.hotdog {
+    font-size: 15px;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.hotdog-section {
+    display: flex;
+    align-content: center;
+}
+.grant {
+    font-size: 15px;
+    margin: auto;
+}
+.grant-section {
+    display: flex;
+    align-content: center;
+}
+.get { 
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 30px;
+    color: orange;
+}
